@@ -1,0 +1,99 @@
+[
+  {
+    "candidate_id": "957706ee-aac6-460f-acf1-9d7478271cc6",
+    "full_name": "Pavithra R",
+    "emails": [],
+    "phones": [],
+    "location": {
+      "city": "Chennai",
+      "region": "Tamilnadu",
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": "https://github.com/candidate-data-transformer",
+      "portfolio": null,
+      "other": [
+        "https://github.com/AI-Interview-Coach-System",
+        "https://github.com/Portfolio---Pavithra-R",
+        "https://github.com/AI-Pension-Assistant-System",
+        "https://github.com/NanoDetectX-Automated-Nanoparticle-Detection-in-Tissue-Sections",
+        "https://github.com/pavi17-R",
+        "https://github.com/Smile-Detection-Selfie-Capture",
+        "https://github.com/Cat-vs-Dog-Classification-using-CNN",
+        "https://github.com/Handwritten-Digit-Recognition",
+        "https://github.com/Image-Colorization",
+        "https://github.com/OCTANET_AUGUST"
+      ]
+    },
+    "headline": "AI & ML Developer | Deep Learning & Computer Vision | Turning complex problems into intelligent, user-centric solutions",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "Css",
+        "confidence": 0.8,
+        "sources": [
+          "GitHub"
+        ]
+      },
+      {
+        "name": "Html",
+        "confidence": 0.8,
+        "sources": [
+          "GitHub"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "confidence": 0.8,
+        "sources": [
+          "GitHub"
+        ]
+      },
+      {
+        "name": "Jupyter Notebook",
+        "confidence": 0.8,
+        "sources": [
+          "GitHub"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.8,
+        "sources": [
+          "GitHub"
+        ]
+      }
+    ],
+    "experience": [],
+    "education": [],
+    "overall_confidence": 0.8,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "GitHub",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "GitHub",
+        "method": "direct"
+      },
+      {
+        "field": "location",
+        "source": "GitHub",
+        "method": "direct"
+      },
+      {
+        "field": "skills",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "links",
+        "source": "GitHub",
+        "method": "aggregated"
+      }
+    ]
+  }
+]

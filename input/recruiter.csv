@@ -1,0 +1,16 @@
+full_name,candidate_email,phone,current_company,title
+Alice Johnson,alice@example.com,+14155551234,Google,Software Engineer
+Bob Smith,bob.smith@example.com,+12125550123,Microsoft,Data Scientist
+Carol White,carol@example.com,,Amazon,ML Engineer
+Eve New,eve@example.com,+15125556789,Startup,Full Stack Developer
+John Doe,john@example.com,+919876543210,Infosys,Backend Developer
+John Doe,john@example.com,+919876543210,Infosys,Backend Developer
+  Alice Johnson  ,ALICE@EXAMPLE.COM,+14155551234,Google,Software Engineer
+David Lee,david.example.com,+919999999999,TCS,Developer
+Sarah Khan,sarah@example.com,12345,Wipro,Software Engineer
+Mike Ross,,+918888888888,Deloitte,Consultant
+Priya Sharma,priya@example.com,+919876543210,,AI Engineer
+Rahul Verma,rahul@example.com,+919912345678,Cognizant,
+Arun Kumar,arun@example.com,+919900001111,Zoho,Java Developer
+Pavithra R,pavi@example.com,+919876543219,CIT,Student
+Test User,test@example.com,+919811111111,Demo,Tester

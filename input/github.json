@@ -1,0 +1,119 @@
+[
+  {
+    "name": "  Alice Johnson  ",
+    "bio": "Software engineer with 6 years of experience in backend systems and ML pipelines.",
+    "email": "ALICE@EXAMPLE.COM",
+    "location": "  San Francisco, CA  ",
+    "repositories": [
+      {
+        "name": "ml-pipeline",
+        "description": "End-to-end ML pipeline",
+        "language": "Python"
+      },
+      {
+        "name": "api-gateway",
+        "description": "REST API gateway",
+        "language": "Go"
+      },
+      {
+        "name": "data-viz",
+        "description": "Data visualization tool",
+        "language": "JavaScript"
+      }
+    ],
+    "languages": [
+      "Python",
+      "python",
+      "Go",
+      "JavaScript",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Bob Smith",
+    "bio": "",
+    "email": "bob.smith@example.com",
+    "location": " New York, NY ",
+    "repositories": [
+      {
+        "name": "nlp-toolkit",
+        "description": "NLP utilities",
+        "language": "Python"
+      },
+      {
+        "name": "kaggle-solutions",
+        "description": "Kaggle competition solutions",
+        "language": "Python"
+      }
+    ],
+    "languages": [
+      "Python",
+      "R",
+      "SQL"
+    ]
+  },
+  {
+    "name": "Carol White",
+    "bio": null,
+    "email": "carol@example.com",
+    "location": null,
+    "repositories": [],
+    "languages": [
+      "Python",
+      "TensorFlow"
+    ]
+  },
+  {
+    "name": "Eve N.",
+    "bio": "Full-stack developer with 3 years experience.",
+    "email": "eve@example.com",
+    "location": "Austin, TX",
+    "repositories": [
+      {
+        "name": "react-app",
+        "description": "React application",
+        "language": "JavaScript"
+      }
+    ],
+    "languages": [
+      "JavaScript",
+      "TypeScript",
+      "Node.js"
+    ]
+  },
+  {
+    "name": "Mike Ross",
+    "bio": null,
+    "email": "MIKE@EXAMPLE.COM",
+    "location": "New York",
+    "repositories": [],
+    "languages": []
+  },
+  {
+    "name": "Invalid User",
+    "bio": "Testing invalid email handling",
+    "email": "invalid.email",
+    "location": "Chennai",
+    "repositories": [],
+    "languages": [
+      "Python"
+    ]
+  },
+  {
+    "name": " Space Test ",
+    "bio": "   Backend engineer with 5 years experience.   ",
+    "email": "space@example.com",
+    "location": " Bengaluru ",
+    "repositories": [
+      {
+        "name": "api",
+        "description": " REST Service ",
+        "language": "JAVA"
+      }
+    ],
+    "languages": [
+      "JAVA",
+      "SQL"
+    ]
+  }
+]

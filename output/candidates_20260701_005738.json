@@ -1,0 +1,837 @@
+[
+  {
+    "candidate_id": "bd34b102-53aa-4a8c-99be-afedd5fce101",
+    "full_name": "Alice Johnson",
+    "emails": [
+      "alice@example.com"
+    ],
+    "phones": [
+      "+14155551234"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Software Engineer",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Software Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.95,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "Recruiter CSV",
+        "method": "priority merge"
+      },
+      {
+        "field": "headline",
+        "source": "Recruiter CSV",
+        "method": "priority merge"
+      },
+      {
+        "field": "emails",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "phones",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "experience",
+        "source": "Recruiter CSV",
+        "method": "aggregated"
+      }
+    ]
+  },
+  {
+    "candidate_id": "8fe66363-7662-434b-beb3-ce135490c862",
+    "full_name": "Bob Smith",
+    "emails": [
+      "bob.smith@example.com"
+    ],
+    "phones": [
+      "+12125550123"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Data Scientist",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Data Scientist",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.95,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "phones",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "experience",
+        "source": "Recruiter CSV",
+        "method": "aggregated"
+      }
+    ]
+  },
+  {
+    "candidate_id": "fe92decd-7d20-4ab7-8695-14e0b7b6efe3",
+    "full_name": "Carol White",
+    "emails": [
+      "carol@example.com"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "ML Engineer",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "ML Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.95,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "experience",
+        "source": "Recruiter CSV",
+        "method": "aggregated"
+      }
+    ]
+  },
+  {
+    "candidate_id": "3abf3549-af53-4629-bbad-8b3397b53fc1",
+    "full_name": "Eve New",
+    "emails": [
+      "eve@example.com"
+    ],
+    "phones": [
+      "+15125556789"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Full Stack Developer",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Startup",
+        "title": "Full Stack Developer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.95,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "phones",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "experience",
+        "source": "Recruiter CSV",
+        "method": "aggregated"
+      }
+    ]
+  },
+  {
+    "candidate_id": "f28d01c3-d9b9-4ab1-b7f8-3e95200779c8",
+    "full_name": "John Doe",
+    "emails": [
+      "john@example.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Backend Developer",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Infosys",
+        "title": "Backend Developer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.95,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "Recruiter CSV",
+        "method": "priority merge"
+      },
+      {
+        "field": "headline",
+        "source": "Recruiter CSV",
+        "method": "priority merge"
+      },
+      {
+        "field": "emails",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "phones",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "experience",
+        "source": "Recruiter CSV",
+        "method": "aggregated"
+      }
+    ]
+  },
+  {
+    "candidate_id": "cfe45775-4b03-44af-a93d-b3f65de32df7",
+    "full_name": "Sarah Khan",
+    "emails": [
+      "sarah@example.com"
+    ],
+    "phones": [],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Software Engineer",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Wipro",
+        "title": "Software Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.95,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "experience",
+        "source": "Recruiter CSV",
+        "method": "aggregated"
+      }
+    ]
+  },
+  {
+    "candidate_id": "1f363663-c9b0-4ad3-8d94-ffd674d0c38b",
+    "full_name": "Priya Sharma",
+    "emails": [
+      "priya@example.com"
+    ],
+    "phones": [
+      "+919876543210"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "AI Engineer",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": null,
+        "title": "AI Engineer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.95,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "phones",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "experience",
+        "source": "Recruiter CSV",
+        "method": "aggregated"
+      }
+    ]
+  },
+  {
+    "candidate_id": "c03c8b2d-5665-438f-8e96-ac274fa32286",
+    "full_name": "Rahul Verma",
+    "emails": [
+      "rahul@example.com"
+    ],
+    "phones": [
+      "+919912345678"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": null,
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Cognizant",
+        "title": null,
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.95,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "phones",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "experience",
+        "source": "Recruiter CSV",
+        "method": "aggregated"
+      }
+    ]
+  },
+  {
+    "candidate_id": "125f8d78-e7b8-4250-a141-2dfe75a2806b",
+    "full_name": "Arun Kumar",
+    "emails": [
+      "arun@example.com"
+    ],
+    "phones": [
+      "+919900001111"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Java Developer",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Zoho",
+        "title": "Java Developer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.95,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "phones",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "experience",
+        "source": "Recruiter CSV",
+        "method": "aggregated"
+      }
+    ]
+  },
+  {
+    "candidate_id": "1706bc9f-9eca-4e69-b71f-6a6b98c25b5f",
+    "full_name": "Pavithra R",
+    "emails": [
+      "pavi@example.com"
+    ],
+    "phones": [
+      "+919876543219"
+    ],
+    "location": {
+      "city": "Chennai",
+      "region": "Tamilnadu",
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": "https://github.com/candidate-data-transformer",
+      "portfolio": null,
+      "other": [
+        "https://github.com/AI-Interview-Coach-System",
+        "https://github.com/Portfolio---Pavithra-R",
+        "https://github.com/AI-Pension-Assistant-System",
+        "https://github.com/NanoDetectX-Automated-Nanoparticle-Detection-in-Tissue-Sections",
+        "https://github.com/pavi17-R",
+        "https://github.com/Smile-Detection-Selfie-Capture",
+        "https://github.com/Cat-vs-Dog-Classification-using-CNN",
+        "https://github.com/Handwritten-Digit-Recognition",
+        "https://github.com/Image-Colorization",
+        "https://github.com/OCTANET_AUGUST"
+      ]
+    },
+    "headline": "Student",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "Css",
+        "confidence": 0.8,
+        "sources": [
+          "GitHub"
+        ]
+      },
+      {
+        "name": "Html",
+        "confidence": 0.8,
+        "sources": [
+          "GitHub"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "confidence": 0.8,
+        "sources": [
+          "GitHub"
+        ]
+      },
+      {
+        "name": "Jupyter Notebook",
+        "confidence": 0.8,
+        "sources": [
+          "GitHub"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 0.8,
+        "sources": [
+          "GitHub"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "CIT",
+        "title": "Student",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.9125,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "Recruiter CSV",
+        "method": "priority merge"
+      },
+      {
+        "field": "headline",
+        "source": "Recruiter CSV",
+        "method": "priority merge"
+      },
+      {
+        "field": "location",
+        "source": "GitHub",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "phones",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "skills",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "experience",
+        "source": "Recruiter CSV",
+        "method": "aggregated"
+      },
+      {
+        "field": "links",
+        "source": "GitHub",
+        "method": "aggregated"
+      }
+    ]
+  },
+  {
+    "candidate_id": "de71132f-667b-42a5-aa1a-111a00f29928",
+    "full_name": "Test User",
+    "emails": [
+      "test@example.com"
+    ],
+    "phones": [
+      "+919811111111"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Tester",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Demo",
+        "title": "Tester",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.95,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "emails",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "phones",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "experience",
+        "source": "Recruiter CSV",
+        "method": "aggregated"
+      }
+    ]
+  },
+  {
+    "candidate_id": "5a89f573-eca2-46c8-ac09-7c817f614cdc",
+    "full_name": "David Lee",
+    "emails": [],
+    "phones": [
+      "+919999999999"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Developer",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "TCS",
+        "title": "Developer",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.95,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "experience",
+        "source": "Recruiter CSV",
+        "method": "aggregated"
+      }
+    ]
+  },
+  {
+    "candidate_id": "d1946c0e-7946-493a-a584-701dda109276",
+    "full_name": "Mike Ross",
+    "emails": [],
+    "phones": [
+      "+918888888888"
+    ],
+    "location": {
+      "city": null,
+      "region": null,
+      "country": null
+    },
+    "links": {
+      "linkedin": null,
+      "github": null,
+      "portfolio": null,
+      "other": []
+    },
+    "headline": "Consultant",
+    "years_experience": null,
+    "skills": [],
+    "experience": [
+      {
+        "company": "Deloitte",
+        "title": "Consultant",
+        "start": null,
+        "end": null,
+        "summary": null
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.95,
+    "provenance": [
+      {
+        "field": "full_name",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "headline",
+        "source": "Recruiter CSV",
+        "method": "direct"
+      },
+      {
+        "field": "phones",
+        "source": "all sources",
+        "method": "aggregated"
+      },
+      {
+        "field": "experience",
+        "source": "Recruiter CSV",
+        "method": "aggregated"
+      }
+    ]
+  }
+]
