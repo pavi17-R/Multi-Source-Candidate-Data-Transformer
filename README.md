@@ -91,14 +91,7 @@ python main.py \
   --config config/default.json
 ```
 
-Example:
 
-```bash
-python main.py ^
-  --csv input/recruiter.csv ^
-  --github-url https://github.com/pavi17-R ^
-  --config config/default.json
-```
 
 ---
 
