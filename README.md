@@ -1,8 +1,8 @@
 # Multi-Source Candidate Data Transformer
 
-A Python-based data transformation pipeline that consolidates candidate information from multiple heterogeneous sources into a single canonical candidate profile.
+A multi-source candidate data transformation pipeline that transforms candidate information collected from structured and unstructured sources into a unified canonical candidate profile.
 
-The pipeline parses, normalizes, validates, and merges candidate data while preserving field-level provenance and confidence scores. The final output is a configurable canonical JSON profile suitable for downstream recruiting systems.
+The system fetches, parses, validates, normalizes, and merges candidate records while preserving provenance and confidence information. The final output is generated as a configurable JSON representation.
 
 ---
 
@@ -73,10 +73,17 @@ pip install -r requirements.txt
 
 Execute the pipeline using a recruiter CSV file and a GitHub profile URL.
 
+## Running the Project
+
+Execute the pipeline by providing a recruiter CSV file and a GitHub profile URL.
+
 ### Windows
 
 ```bash
-python main.py --csv input/recruiter.csv --github-url https://github.com/<github-username> --config config/default.json
+python main.py ^
+  --csv input/recruiter.csv ^
+  --github-url https://github.com/<github-username> ^
+  --config config/default.json
 ```
 
 ### Linux / macOS
@@ -88,7 +95,14 @@ python main.py \
   --config config/default.json
 ```
 
+### Example
 
+```bash
+python main.py ^
+  --csv input/recruiter.csv ^
+  --github-url https://github.com/pavi17-R ^
+  --config config/default.json
+```
 
 ---
 
