@@ -137,3 +137,8 @@ Detailed information about the system architecture, parsing workflow, normalizat
 TECHNICAL_DESIGN.md
 ```
 
+## Demo Video
+
+https://drive.google.com/file/d/1ZAwJox3v7UeBXEUmMnfJ7mtitlNWrXTO/view?usp=sharing
+
+
