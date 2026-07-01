@@ -68,7 +68,19 @@ pip install -r requirements.txt
 ```
 
 ---
+## Clone the Repository
 
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/pavi17-R/Multi-Source-Candidate-Data-Transformer.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Multi-Source-Candidate-Data-Transformer/candidate-transformer
+```
 
 ## Running the Project
 
