@@ -69,9 +69,6 @@ pip install -r requirements.txt
 
 ---
 
-## Running the Project
-
-Execute the pipeline using a recruiter CSV file and a GitHub profile URL.
 
 ## Running the Project
 
