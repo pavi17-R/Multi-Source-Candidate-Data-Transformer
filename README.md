@@ -76,10 +76,7 @@ Execute the pipeline using a recruiter CSV file and a GitHub profile URL.
 ### Windows
 
 ```bash
-python main.py ^
-  --csv input/recruiter.csv ^
-  --github-url https://github.com/<github-username> ^
-  --config config/default.json
+python main.py --csv input/recruiter.csv --<github-username> --config config/default.json
 ```
 
 ### Linux / macOS
